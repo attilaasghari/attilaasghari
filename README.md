@@ -3,7 +3,8 @@ I'm currently working on my open source and SaaS project<br>also I'm available f
 
 
 ## 🌐 Socials:
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fata.vitren.ir)![Website](https://img.shields.io/website?url=https%3A%2F%2Fattila.vitren.ir)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fata.vitren.ir&up_message=Home page&up_color=green) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fattila.vitren.ir&up_message=portfolio&up_color=blue)
+
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/attilaasghari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31472371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attilaasghari@gmail.com) 
 
 # 💻 Tech Stack:
