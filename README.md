@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my open source and SaaS project<br>also I'm available for freelance<br>I'm currently trying to learn data science 
+I'm currently learning data science and ml<br>also I'm available for freelance<br>I'm currently trying to learn data science 
 
 
 ## 🌐 Socials:
